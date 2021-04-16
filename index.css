@@ -30,3 +30,19 @@ h1{
     margin-right: 50%;
     margin-left: 0%;
 }
+.members img{
+    height: 400px;
+    width: 400px;
+    margin-right: 70%;
+    display: flex;
+}
+#Leigh-Anne{
+    display: block;
+}
+#Leigh-Anne p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
