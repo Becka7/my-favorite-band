@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    
+}
+img{
+    display: block;
+    height: 600px;
+    width :1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: right 20px whitesmoke;
+    border: left 20px whitesmoke;
+    
+
+}
+h1{
+    text-align: center;
+}
+.bio{
+    margin: 10px white;
+}
