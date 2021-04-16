@@ -1,5 +1,10 @@
 body{
     background-color: pink;
+    background-image: url(https://media.gettyimages.com/photos/jesy-nelson-jade-thirlwall-perrie-edwards-and-leighanne-pinnock-from-picture-id624347050?s=2048x2048);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: right;
+    background-position-y: 30%;
     
 }
 img{
@@ -11,7 +16,6 @@ img{
     border: right 20px whitesmoke;
     border: left 20px whitesmoke;
     
-
 }
 h1{
     text-align: center;
@@ -23,7 +27,8 @@ h1{
     display:inline;
 }
 .secondimage img{
-    margin-left:50%;
+    margin-right:50%;
+    width: 400;
     display:flex;
 }
 .secondimage p{
