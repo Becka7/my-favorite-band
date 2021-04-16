@@ -19,3 +19,14 @@ h1{
 .bio{
     margin: 10px white;
 }
+.secondimage{
+    display:inline;
+}
+.secondimage img{
+    margin-left:50%;
+    display:flex;
+}
+.secondimage p{
+    margin-right: 50%;
+    margin-left: 0%;
+}
