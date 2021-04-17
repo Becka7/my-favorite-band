@@ -76,6 +76,8 @@ body{
 }
 .generalBio h1{
     text-align: center;
+    /* font-family: 'Fredericka the Great', cursive; */
+    font-family: 'Train One', cursive;
 }
 
 #description{
@@ -87,6 +89,10 @@ body{
 #songlist{
     margin-left: 50%;
     padding-bottom: 20px;
+   
+}
+#songlist h1{
+    font-family: 'Train One', cursive;
 }
 #listimage{
     float: left;
