@@ -1,4 +1,4 @@
- My favourited band
+# My favourite band
 #### This is a simple class project on my favorite music band , { 17th April 2021}
 #### By **Rabecca nzau **
 ## Description
