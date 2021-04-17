@@ -71,7 +71,9 @@ body{
     background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    
+}
+.generalBio h1{
+    text-align: center;
 }
 
 #description{
