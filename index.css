@@ -38,7 +38,7 @@ body{
     margin-right: 50%;
     margin-left: 0%;
 }
-.members img{
+ .members img{
     height: 400px;
     width: 400px;
     
@@ -109,11 +109,23 @@ footer{
 }
 /* #Leigh{
     float:left;
+     height: 400px;
+    width: 400px;
+    
+    display: flex;
 }
 #Je{
     float:left;
+     height: 400px;
+    width: 400px;
+    
+    display: flex;
 }
 #Pe{
     float: left;
-} */
+     height: 400px;
+    width: 400px;
+    
+    display: flex;
+}  */
 
