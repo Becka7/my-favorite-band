@@ -6,6 +6,8 @@ body{
     background-attachment: fixed;
     background-image: url("https://media.gettyimages.com/photos/perrie-edwards-jesy-nelson-leighanne-pinnock-and-jade-thirlwall-of-picture-id484945912?s=2048x2048");
     background-color: transparent;
+    /* font-family: 'Concert One', cursive; */
+    /* font-family: 'Arima Madurai', cursive; */
     /* background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg"); */
     /* background-size: 50%; */
     /* background-position-x: right; */
@@ -38,25 +40,73 @@ body{
     margin-right: 50%;
     margin-left: 0%;
 }
- .members img{
+ /* .members{
+     display:block;
+ } */
+ /* .members img{
     height: 400px;
     width: 400px;
     
-    display: flex;
-}
+    display: block;
+} */
 #Leigh-Anne{
-    display:inline;
+    display:block;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg");
+    background-repeat: no-repeat;
+     height: 500px;
+     background-size: cover;
+
 
 }
+#Leigh{
+    width: 350px;
+    height: 400px;
+    float: left;
+}
+#Jade{
+    display: block;
+    height: 400px;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Jesy{
+    display:block;
+    height: 400px;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Perrie{
+    display:block;
+    height: 400px;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/27/4857a59d7d1ca62.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-
+#Je{
+     height: 400px;
+    width: 400px;
+    float: right;  
+} 
+#Js{
+    height: 400px;
+    width: 400px;
+    float: left
+}
+#Pe{
+    height: 400px;
+    width: 400px;
+    float: right;
+}
+/* 
 #Leigh-Anne p{
-    display: inline-flex;
+    
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
+    margin-inline-end: 0px; */
 #firstPart{
     background-image: url("https://media.gettyimages.com/photos/perrie-edwards-jesy-nelson-leighanne-pinnock-and-jade-thirlwall-of-picture-id484945912?s=2048x2048");
     background-size: cover;
@@ -74,7 +124,7 @@ body{
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.generalBio h1{
+ h1{
     text-align: center;
     /* font-family: 'Fredericka the Great', cursive; */
     font-family: 'Train One', cursive;
@@ -102,14 +152,14 @@ body{
 }
 
 .trialdiv{
-    background-image: url("https://image.freepik.com/free-photo/pink-watercolor-texture-white-paper-background_7190-947.jpg");
+    background-image: url("https://image.freepik.com/free-vector/red-pink-gradient-abstract-background_53876-62623.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     margin-bottom: 200px;
 } 
 footer{
-    diplay:block;
+    display:block;
     text-align:right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -119,19 +169,10 @@ footer{
     width: 400px;
     
     display: flex;
-}
-#Je{
-    float:left;
-     height: 400px;
-    width: 400px;
-    
-    display: flex;
-}
+} */
+
 #Pe{
-    float: left;
      height: 400px;
     width: 400px;
-    
-    display: flex;
-}  */
+}  
 
